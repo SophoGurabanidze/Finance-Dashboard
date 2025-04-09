@@ -1,7 +1,7 @@
 Finance Dashboard App
 A full-stack MERN application built with TypeScript and Material UI (MUI) that provides a detailed financial overview of a company. The dashboard visualizes mock financial data across three key categories: Profitability, Liquidity, and Efficiency, using 9 insightful charts.
 
-    Current Features:
+     Current Features:
  
 Revenue vs Expenses overview
 
@@ -21,7 +21,7 @@ TypeScript for safer and cleaner code
 
 MUI for responsive, modern UI
 
-    Data:
+      Data:
  
 Currently uses mock/synthetic financial data seeded into MongoDB. This includes:
 
@@ -31,6 +31,6 @@ Product-level data
 
 Monthly sales grouped by product
 
-Basic Machine Learning:
+      Basic Machine Learning:
 
 Implements a simple linear regression model for revenue prediction (on a separate page).
